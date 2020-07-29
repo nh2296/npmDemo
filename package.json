@@ -1,0 +1,19 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "Git project using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nh2296/npmDemo.git"
+  },
+  "author": "nh2296",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nh2296/npmDemo/issues"
+  },
+  "homepage": "https://github.com/nh2296/npmDemo#readme"
+}
